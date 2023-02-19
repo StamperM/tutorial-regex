@@ -54,8 +54,4 @@ with back-references you can refer back to a capturing group by using \1. This i
 ### Look-ahead and Look-behind
 This gist was a great opportunity to learn a little about Regex/Regular Expression. I think I was able to get an understanding of what it is and the purpose but will definitely need to do more studying to really get a grasp on what is happening and how to use it in my coding.
 ## Author
-
-
-
-
  [GitHub](StamperM)
